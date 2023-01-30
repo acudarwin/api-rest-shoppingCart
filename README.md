@@ -1,4 +1,4 @@
-# Nombre Proyecto: MODULO ADMIN
+# Nombre Proyecto: Shopping cart
 
 ### Descripción
 
